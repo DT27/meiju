@@ -130,6 +130,14 @@ data:
 ```
 
 
+## Domoticz 插件
+
+同仓库 `Meiju/` 目录是面向 [Domoticz](https://www.domoticz.com/) 的美的美居插件（结构参考 `BroadlinkSPMini/`，协议移植自本集成）。安装与参数见 [Meiju/README.md](Meiju/README.md)。
+
+![Domoticz 中的美居空调控件](Meiju/docs/domoticz-ac.jpg)
+
+`BroadlinkSPMini/` 来自 [Domoticz 中文论坛](https://www.domoticz.cn/forum/viewtopic.php?t=43)，作者 Zackr。
+
 ## Thanks
 - https://github.com/mac-zhou/midea-msmart
 - [@vividmuse](https://github.com/vividmuse)
